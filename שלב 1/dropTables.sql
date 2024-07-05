@@ -1,0 +1,13 @@
+DROP TABLE working_for;
+DROP TABLE teaches;
+DROP TABLE learned;
+DROP TABLE exam;
+DROP TABLE pre_course;
+DROP TABLE learning_to;
+DROP TABLE student;
+DROP TABLE dormitories;
+DROP TABLE deg;
+DROP TABLE course;
+DROP TABLE course_type;
+DROP TABLE department;
+DROP TABLE lecturer;
